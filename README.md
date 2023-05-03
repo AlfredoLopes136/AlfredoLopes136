@@ -1,6 +1,6 @@
 ### Hi there, I'm Alfredo Lopes
    
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and Python
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Target: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and wacth movies
